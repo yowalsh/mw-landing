@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "I Write Stuff",
     "description": "",
-    "home_page_url": "https://www.walsh.soy",
-    "feed_url": "https://www.walsh.soy/feed.json",
+    "home_page_url": "https://www.yowalsh.com",
+    "feed_url": "https://www.yowalsh.com/feed.json",
     "user_comment": "",
-    "icon": "https://www.walsh.soy/media/website/29-2xl.webp",
+    "icon": "https://www.yowalsh.com/media/website/29-2xl.webp",
     "author": {
         "name": "michaelwalsh"
     },
